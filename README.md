@@ -5,18 +5,28 @@ For the backend logic install the express dependency:
 
     npm i express
     
-Start it up:
+Start it up from root folder:
 
+    npm install
     npm start
     
-Generate a front end application in react (note: you don't have to do this because it has already been created, notice the client folder):
-
-    npx create-react-app client
-    
-Move into the correct directory and start it up:
+Install packages for react front end. Move into the correct directory and start it up:
 
     cd client
+    npm install
     npm start
     
+Visit the site in the browser.
+
+    http://localhost:3000
+    
+You should see a boilerplate React page show up.
+
+Now try going to:
+
+    http://localhost:3001/api
+
+You should see:
 
     
+    {"message":"Hello from server!"}
