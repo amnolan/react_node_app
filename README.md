@@ -9,7 +9,7 @@ Start it up:
 
     npm start
     
-Generate a front end application in react:
+Generate a front end application in react (note: you don't have to do this because it has already been created, notice the client folder):
 
     npx create-react-app client
     
