@@ -22,6 +22,8 @@ Visit the site in the browser.
     
 You should see a boilerplate React page show up.
 
+![Client](https://github.com/amnolan/react_node_starter_app/blob/main/screenshots/screenshot_client.png)
+
 Now try going to:
 
     http://localhost:3001/api
@@ -30,3 +32,5 @@ You should see:
 
     
     {"message":"Hello from server!"}
+    
+![Server](https://github.com/amnolan/react_node_starter_app/blob/main/screenshots/screenshot_server.png)
