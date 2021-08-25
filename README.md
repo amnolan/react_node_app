@@ -1,4 +1,4 @@
-# react_node_app
+# react_node_starter_app
 Basic starter react app
 
 For the backend logic install the express dependency:
