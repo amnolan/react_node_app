@@ -20,7 +20,8 @@ Visit the site in the browser.
 
     http://localhost:3000
     
-You should see a boilerplate React page show up (Note: ignore the "profile-page" in the link, any path after localhost:3000 will take you to the same page, due to the routing logic in App.js).
+You should see a boilerplate React page show up.
+Note: ignore the "profile-page" in the link, any path after localhost:3000 will take you to the same page.
 
 ![Client](https://github.com/amnolan/react_node_starter_app/blob/main/screenshots/screenshot_client.png)
 
